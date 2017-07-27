@@ -3276,7 +3276,20 @@ body.signin {
 .mainwrapper.collapsed .nav > li.parent .children > li > a {
     padding-left: 10px;
 }
-
+.panel-heading .bot-name{
+    margin: 0;
+}
+ul.bot-features {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    font-size: 16px;
+}
+ul.bot-features li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ddd;
+}
 
 
 /********** 12. CUSTOM STYLES **********/
